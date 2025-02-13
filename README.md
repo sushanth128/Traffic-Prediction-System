@@ -12,6 +12,8 @@ This project is designed to develop, deploy, and monitor a traffic prediction mo
 
 By leveraging state-of-the-art techniques in machine learning and MLOps, this project aims to provide a scalable and efficient traffic prediction system.
 
+[Watch Demo Video](https://drive.google.com/file/d/1qC6tCGMa-ruVUE08nwFKSamFSbjlcD0t/view?usp=sharing)
+
 ## Key Technologies Used
 
 - **Python**: Programming language for model development and experimentation.
