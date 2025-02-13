@@ -1,5 +1,7 @@
 # Traffic Prediction Model Using METR-LA Dataset
 
+![metr-la](https://github.com/user-attachments/assets/46b0ccac-3700-430b-aa6b-8ec5cb5f8a8b)
+
 ## Overview
 
 This project is designed to develop, deploy, and monitor a traffic prediction model using the **METR-LA dataset**. The goal of this project is to predict traffic conditions in real-time, enabling better decision-making for traffic management systems. The entire workflow is divided into three distinct phases:
